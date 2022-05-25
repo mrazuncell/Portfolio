@@ -1,0 +1,17 @@
+<Bookstore>
+	<Jenre>
+		<fiction theyearofpublishing = "1918"> Romance</fiction>
+		<fiction theyearofpublishing = "1893" amount = "421"> Poetry </fiction>
+		<fiction theyearofpublishing = "2012" amount = "4777" cover = "Paperback"> Sience Fiction </fiction>
+		<nonfiction cover = "Hardcover Case Wrap" pages = "418" publisher = "Cascade Books"> Biography </nonfiction>
+		<nonfiction cover = "Hardcover Dust Jacket" pages = "113" publisher = "Popcorn Books" price = "18"> Self-training </nonfiction>
+		<nonfiction cover = "Paperback"> Cooking </nonfiction>
+		<nonfiction cover = "Paperback" pages = "157" publisher = "The best travel company ever" price = "5" language = "Ukrainian"> Travel </nonfiction>
+	</Jenre>
+	<BestSellers publisher = "Random House"> Atlas of the Heart </BestSellers>
+	<NewRelease>
+		<for_children amount = "7 books" cover = "Hardcover Case Wrap"> Harry Potter</for_children>
+		<for_teens amount = "3 books" cover = "Hardcover Case Wrap"> The Hunger Games</for_teens>
+		<for_adults amount = "7 books" cover = "Hardcover Case Wrap"> Game of Trones</for_adults>
+	</NewRelease>
+</Bookstore>
